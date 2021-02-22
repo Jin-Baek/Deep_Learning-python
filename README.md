@@ -1,4 +1,4 @@
-# Deep Learning basic based on python]
+# Deep Learning basic based on python
 
 ## Introduction
 * This repository is based on 
