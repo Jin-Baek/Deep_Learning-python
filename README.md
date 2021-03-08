@@ -3,3 +3,4 @@
 ## Introduction
 * This repository is based on [" 밑바닥부터 시작하는 딥러닝 "](https://book.naver.com/bookdb/book_detail.nhn?bid=11492334) in Personal study 
   
+[Markdown LaTex](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Formatting_using_TeX)
